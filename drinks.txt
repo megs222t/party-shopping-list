@@ -5,5 +5,5 @@ beer
 wine
 rum
 coke
-vodka
+lemons
 orange juice
