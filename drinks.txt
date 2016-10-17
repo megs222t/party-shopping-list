@@ -3,3 +3,5 @@ ginger beer
 squash
 beer 
 wine
+rum
+coke
