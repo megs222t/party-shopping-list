@@ -5,3 +5,4 @@ beer
 wine
 rum
 coke
+vodka
